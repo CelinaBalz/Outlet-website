@@ -55,6 +55,6 @@ Por fim, recomendo o curso para iniciantes pois aborda muitas funcionalidades e 
 
 <a href="https://www.youtube.com/watch?v=gXLjWRteuWI">Curso em video</a>  
 <a href="https://celinaaaaaa.github.io/Lading-pg-Html-e-CSS/">Site no ar</a>  
-<a href="">Instagram</a>  
-<a href="">Github</a>  
-<a href="">Linkedin</a>  
+<a href="https://www.instagram.com/celina_balz/">Instagram</a>  
+<a href="https://github.com/Celinaaaaaa">Github</a>  
+<a href="https://br.linkedin.com/in/celina-ariella-oliveira-balz-049837201?original_referer=https%3A%2F%2Fwww.google.com%2F">Linkedin</a>  
