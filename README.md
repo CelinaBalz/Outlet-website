@@ -54,7 +54,7 @@ Por fim, recomendo o curso para iniciantes pois aborda muitas funcionalidades e 
 ## Links <a name="links"></a>
 
 <a href="https://www.youtube.com/watch?v=gXLjWRteuWI">Curso em video</a>  
-<a href="">Site no ar</a>  
+<a href="https://celinaaaaaa.github.io/Lading-pg-Html-e-CSS/">Site no ar</a>  
 <a href="">Instagram</a>  
 <a href="">Github</a>  
 <a href="">Linkedin</a>  
