@@ -22,7 +22,7 @@ Nele pretendo aprimorar minhas habilidades com as ferramentas de **HTML** e **CS
 
 ### Desenvolvimento 
 
-Inicialmente, durante os 15 minutos iniciais do curso é apresentado a estrutura dos códigos html e css e o editor de código que será utilizado (nesse caso o **Visual Studio Code**).  
+Inicialmente, é apresentado a estrutura dos códigos html e css e o editor de código que será utilizado (nesse caso o **Visual Studio Code**).  
 Nesse momento, algo que me surpreendeu foi a utilização do **SASS** ao invés de CSS em um curso para iniciantes. Porém se tratando de um **"Crash Course"** entendo o uso de tecnologias mais avançadas para o aprendizado.
 Substitui as imagens e copy do **Figma** para dar um toque pessoal ao projeto.  
 Após baixar algumas imagens gratuitas do site **Unsplash** criei uma empresa fictícia de Design de interiores chamada **"EcoPlace"**, empresa com o objetivo de planejar espaços internos com valores ambientalistas.   
